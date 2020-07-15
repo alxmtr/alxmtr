@@ -13,4 +13,4 @@ If you have a project you want to discuss, **[shoot me a message!]** 💬
 [Vue.js]: <https://vuejs.com>
 [Tailwind CSS]: <https://tailwindcss.com>
 
-[shoot me a message!]: <mailto:me@alexmonteiro.fr>
+[shoot me a message!]: <mailto:me@alxmtr.dev>
