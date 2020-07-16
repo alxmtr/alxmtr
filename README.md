@@ -7,13 +7,13 @@ I started programming as a hobby over 7 years ago.
 Today, I build websites and apps using modern technologies such as **[Laravel]**, **[Vue.js]** and **[Tailwind CSS]**.
 
 I'm available for **freelance work**.
-If you have a project you want to discuss, **[shoot me a message!]** 💬
+If you have a project you want to discuss, **[send me an email!]** 💬
 
-You can also find **[me on Twitter]**.
+You can also find me on Twitter **[@alx_mtr]**.
 
 [Laravel]: <https://laravel.com>
 [Vue.js]: <https://vuejs.com>
 [Tailwind CSS]: <https://tailwindcss.com>
 
-[shoot me a message!]: <mailto:me@alxmtr.dev>
-[me on Twitter]: <https://twitter.com/alx_mtr>
+[send me an email!]: <mailto:me@alxmtr.dev>
+[@alx_mtr]: <https://twitter.com/alx_mtr>
