@@ -1,6 +1,6 @@
 # Hello, I'm Alex! 👋
 
-I'm a **web developer** based in France 🇫🇷.
+I'm a **web developer** from France 🇫🇷.
 
 I started programming as a hobby over 7 years ago.
 
