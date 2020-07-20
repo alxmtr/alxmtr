@@ -2,7 +2,7 @@
 
 I'm a **web developer** from France 🇫🇷.
 
-I started programming as a hobby over 7 years ago.
+I started programming as a hobby over 8 years ago.
 
 Today, I build websites and apps using modern technologies such as **[Laravel]**, **[Vue.js]** and **[Tailwind CSS]**.
 
